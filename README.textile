@@ -1,0 +1,1 @@
+This jQuery plugin finds embedded swf files in an html page and converts the "wmode" paramater to "transparent". This is useful when some flash files are inserted by a 3rd party with "wmode" set to "window".
